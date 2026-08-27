@@ -1,0 +1,1220 @@
+{
+  "custom_9145cb97": {
+    "id": "custom_9145cb97",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Dinosaurs Learning Adventure",
+    "subtitle": "Special JK worksheet made just for Maya!",
+    "description": "Fun custom worksheet exploring Dinosaurs and phonics skills.",
+    "difficulty": 1,
+    "instructions_for_child": "Start at the star and trace each line carefully to reach the treasure!",
+    "instructions_for_parent": "Offer lots of high fives and encouragement as they trace and write!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the Dinosaurs find the way home!",
+        "data": {
+          "style": "wave",
+          "count": 3,
+          "start_icon": "\ud83c\udf1f",
+          "end_icon": "\ud83c\udfe1",
+          "dashed": true
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the Dinosaurs items and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83c\udf1f",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "fill_pattern",
+        "prompt": "What comes next in the Dinosaurs pattern?",
+        "data": {
+          "sequence": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf1f",
+            "\u2b50"
+          ],
+          "choices": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf88"
+          ],
+          "answer": "\ud83c\udf1f"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Dinosaurs themed engagement",
+      "Pencil grasp and motor precision"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_47b8da72": {
+    "id": "custom_47b8da72",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Dinosaurs Learning Adventure",
+    "subtitle": "Special JK worksheet made just for Maya!",
+    "description": "Fun custom worksheet exploring Dinosaurs and phonics skills.",
+    "difficulty": 1,
+    "instructions_for_child": "Start at the star and trace each line carefully to reach the treasure!",
+    "instructions_for_parent": "Offer lots of high fives and encouragement as they trace and write!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the Dinosaurs find the way home!",
+        "data": {
+          "style": "wave",
+          "count": 3,
+          "start_icon": "\ud83c\udf1f",
+          "end_icon": "\ud83c\udfe1",
+          "dashed": true
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the Dinosaurs items and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83c\udf1f",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "fill_pattern",
+        "prompt": "What comes next in the Dinosaurs pattern?",
+        "data": {
+          "sequence": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf1f",
+            "\u2b50"
+          ],
+          "choices": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf88"
+          ],
+          "answer": "\ud83c\udf1f"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Dinosaurs themed engagement",
+      "Pencil grasp and motor precision"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_e910ef84": {
+    "id": "custom_e910ef84",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Dinosaurs Learning Adventure",
+    "subtitle": "Special JK worksheet made just for Maya!",
+    "description": "Fun custom worksheet exploring Dinosaurs and phonics skills.",
+    "difficulty": 1,
+    "instructions_for_child": "Start at the star and trace each line carefully to reach the treasure!",
+    "instructions_for_parent": "Offer lots of high fives and encouragement as they trace and write!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the Dinosaurs find the way home!",
+        "data": {
+          "style": "wave",
+          "count": 3,
+          "start_icon": "\ud83c\udf1f",
+          "end_icon": "\ud83c\udfe1",
+          "dashed": true
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the Dinosaurs items and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83c\udf1f",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "fill_pattern",
+        "prompt": "What comes next in the Dinosaurs pattern?",
+        "data": {
+          "sequence": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf1f",
+            "\u2b50"
+          ],
+          "choices": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf88"
+          ],
+          "answer": "\ud83c\udf1f"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Dinosaurs themed engagement",
+      "Pencil grasp and motor precision"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_90a3e480": {
+    "id": "custom_90a3e480",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Dinosaurs Learning Adventure",
+    "subtitle": "Special JK worksheet made just for Maya!",
+    "description": "Fun custom worksheet exploring Dinosaurs and phonics skills.",
+    "difficulty": 1,
+    "instructions_for_child": "Start at the star and trace each line carefully to reach the treasure!",
+    "instructions_for_parent": "Offer lots of high fives and encouragement as they trace and write!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the Dinosaurs find the way home!",
+        "data": {
+          "style": "wave",
+          "count": 3,
+          "start_icon": "\ud83c\udf1f",
+          "end_icon": "\ud83c\udfe1",
+          "dashed": true
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the Dinosaurs items and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83c\udf1f",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "fill_pattern",
+        "prompt": "What comes next in the Dinosaurs pattern?",
+        "data": {
+          "sequence": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf1f",
+            "\u2b50"
+          ],
+          "choices": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf88"
+          ],
+          "answer": "\ud83c\udf1f"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Dinosaurs themed engagement",
+      "Pencil grasp and motor precision"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_c02d568d": {
+    "id": "custom_c02d568d",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Princess Learning Adventure",
+    "subtitle": "Special JK worksheet made just for Akira!",
+    "description": "Fun custom worksheet exploring Princess and phonics skills.",
+    "difficulty": 1,
+    "instructions_for_child": "Start at the star and trace each line carefully to reach the treasure!",
+    "instructions_for_parent": "Offer lots of high fives and encouragement as they trace and write!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the Princess find the way home!",
+        "data": {
+          "style": "wave",
+          "count": 3,
+          "start_icon": "\ud83d\udc51",
+          "end_icon": "\ud83c\udfe1",
+          "dashed": true
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the Princess items and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83d\udc51",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "fill_pattern",
+        "prompt": "What comes next in the Princess pattern?",
+        "data": {
+          "sequence": [
+            "\ud83d\udc51",
+            "\u2b50",
+            "\ud83d\udc51",
+            "\u2b50"
+          ],
+          "choices": [
+            "\ud83d\udc51",
+            "\u2b50",
+            "\ud83c\udf88"
+          ],
+          "answer": "\ud83d\udc51"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Princess themed engagement",
+      "Pencil grasp and motor precision"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_49e57c56": {
+    "id": "custom_49e57c56",
+    "grade": "JK",
+    "domain": "numeracy",
+    "skill_id": "custom_numeracy",
+    "title": "Princess Akira's Royal Math Quest",
+    "subtitle": "Fun Counting & Patterns in the Royal Kingdom!",
+    "description": "A delightful royal-themed numeracy worksheet designed for Junior Kindergarten learners, introducing fine motor tracing, counting up to 3, and AB pattern recognition.",
+    "difficulty": 1,
+    "instructions_for_child": "Help the princess find her way to the castle, count the shiny crowns, and complete the magical patterns!",
+    "instructions_for_parent": "Encourage Akira to point and count each picture out loud using one-to-one correspondence before tracing.",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Trace the magical path to help Princess Akira get to the castle!",
+        "data": {
+          "style": "wave",
+          "count": 3,
+          "start_icon": "\ud83d\udc78",
+          "end_icon": "\ud83c\udff0"
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the royal crowns and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83d\udc51",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "fill_pattern",
+        "prompt": "Which jewel comes next in the princess necklace pattern?",
+        "data": {
+          "sequence": [
+            "\ud83d\udc51",
+            "\ud83d\udc8e",
+            "\ud83d\udc51",
+            "\ud83d\udc8e"
+          ],
+          "choices": [
+            "\ud83d\udc51",
+            "\ud83d\udc8e",
+            "\ud83c\udf38"
+          ],
+          "answer": "\ud83d\udc51"
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "math_problem",
+        "prompt": "Count the royal magic stars altogether!",
+        "data": {
+          "operand1": 2,
+          "operand2": 1,
+          "operator": "+",
+          "answer": 3,
+          "icon": "\u2b50",
+          "group1": "\u2b50\u2b50",
+          "group2": "\u2b50"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Practice pencil grip and path tracing",
+      "Develop one-to-one counting skills up to 3",
+      "Identify and complete simple AB patterns"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_e29e758a": {
+    "id": "custom_e29e758a",
+    "grade": "JK",
+    "domain": "tracing",
+    "skill_id": "custom_tracing",
+    "title": "Princess Learning Adventure",
+    "subtitle": "Special JK worksheet made just for Akira!",
+    "description": "Fun custom worksheet exploring Princess and tracing skills.",
+    "difficulty": 1,
+    "instructions_for_child": "Start at the star and trace each line carefully to reach the treasure!",
+    "instructions_for_parent": "Offer lots of high fives and encouragement as they trace and write!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the Princess find the way home!",
+        "data": {
+          "style": "wave",
+          "count": 3,
+          "start_icon": "\ud83d\udc51",
+          "end_icon": "\ud83c\udfe1",
+          "dashed": true
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the Princess items and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83d\udc51",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "fill_pattern",
+        "prompt": "What comes next in the Princess pattern?",
+        "data": {
+          "sequence": [
+            "\ud83d\udc51",
+            "\u2b50",
+            "\ud83d\udc51",
+            "\u2b50"
+          ],
+          "choices": [
+            "\ud83d\udc51",
+            "\u2b50",
+            "\ud83c\udf88"
+          ],
+          "answer": "\ud83d\udc51"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Princess themed engagement",
+      "Pencil grasp and motor precision"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_25e7b10e": {
+    "id": "custom_25e7b10e",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Dinosaurs Learning Adventure",
+    "subtitle": "Special JK worksheet made just for Maya!",
+    "description": "Fun custom worksheet exploring Dinosaurs and phonics skills.",
+    "difficulty": 1,
+    "instructions_for_child": "Start at the star and trace each line carefully to reach the treasure!",
+    "instructions_for_parent": "Offer lots of high fives and encouragement as they trace and write!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the Dinosaurs find the way home!",
+        "data": {
+          "style": "wave",
+          "count": 3,
+          "start_icon": "\ud83c\udf1f",
+          "end_icon": "\ud83c\udfe1",
+          "dashed": true
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the Dinosaurs items and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83c\udf1f",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "fill_pattern",
+        "prompt": "What comes next in the Dinosaurs pattern?",
+        "data": {
+          "sequence": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf1f",
+            "\u2b50"
+          ],
+          "choices": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf88"
+          ],
+          "answer": "\ud83c\udf1f"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Dinosaurs themed engagement",
+      "Pencil grasp and motor precision"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_cb323586": {
+    "id": "custom_cb323586",
+    "grade": "JK",
+    "domain": "tracing",
+    "skill_id": "custom_tracing",
+    "title": "Princess Learning Adventure",
+    "subtitle": "Special JK worksheet made just for Akira!",
+    "description": "Fun custom worksheet exploring Princess and tracing skills.",
+    "difficulty": 1,
+    "instructions_for_child": "Start at the star and trace each line carefully to reach the treasure!",
+    "instructions_for_parent": "Offer lots of high fives and encouragement as they trace and write!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the Princess find the way home!",
+        "data": {
+          "style": "wave",
+          "count": 3,
+          "start_icon": "\ud83d\udc51",
+          "end_icon": "\ud83c\udfe1",
+          "dashed": true
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the Princess items and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83d\udc51",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "fill_pattern",
+        "prompt": "What comes next in the Princess pattern?",
+        "data": {
+          "sequence": [
+            "\ud83d\udc51",
+            "\u2b50",
+            "\ud83d\udc51",
+            "\u2b50"
+          ],
+          "choices": [
+            "\ud83d\udc51",
+            "\u2b50",
+            "\ud83c\udf88"
+          ],
+          "answer": "\ud83d\udc51"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Princess themed engagement",
+      "Pencil grasp and motor precision"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_a9bf5bd8": {
+    "id": "custom_a9bf5bd8",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Dinosaurs Learning Adventure",
+    "subtitle": "Special JK worksheet made just for Akira!",
+    "description": "Fun custom worksheet exploring Dinosaurs and phonics skills.",
+    "difficulty": 1,
+    "instructions_for_child": "Start at the star and trace each line carefully to reach the treasure!",
+    "instructions_for_parent": "Offer lots of high fives and encouragement as they trace and write!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the Dinosaurs find the way home!",
+        "data": {
+          "style": "wave",
+          "count": 3,
+          "start_icon": "\ud83c\udf1f",
+          "end_icon": "\ud83c\udfe1",
+          "dashed": true
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the Dinosaurs items and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83c\udf1f",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "fill_pattern",
+        "prompt": "What comes next in the Dinosaurs pattern?",
+        "data": {
+          "sequence": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf1f",
+            "\u2b50"
+          ],
+          "choices": [
+            "\ud83c\udf1f",
+            "\u2b50",
+            "\ud83c\udf88"
+          ],
+          "answer": "\ud83c\udf1f"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Dinosaurs themed engagement",
+      "Pencil grasp and motor precision"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_78e82e93": {
+    "id": "custom_78e82e93",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Maya's Dinosaur Letter D Adventure",
+    "subtitle": "Stomp along with dinosaurs and master the letter D!",
+    "description": "A fun phonics and fine motor worksheet focused on the letter D, sound recognition, and dinosaur footprint paths.",
+    "difficulty": 1,
+    "instructions_for_child": "Grab your crayons, Maya! Help the baby dinosaur follow the footprints to practice the letter D!",
+    "instructions_for_parent": "Encourage Maya to make the stomping '/d/' sound every time she traces a letter D or touches a footprint.",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Trace the dinosaur footprint paths to reach the dinosaur egg!",
+        "data": {
+          "style": "zigzag",
+          "count": 3,
+          "start_icon": "\ud83d\udc3e",
+          "end_icon": "\ud83e\udd5a"
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "trace_letter",
+        "prompt": "Trace the uppercase D and lowercase d for Dinosaur!",
+        "data": {
+          "upper": "D",
+          "lower": "d",
+          "sound_word": "Dinosaur",
+          "icon": "\ud83e\udd95",
+          "samples": [
+            "D D D",
+            "d d d"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "count_items",
+        "prompt": "Count the dinosaur footprints in the mud, then trace the number 4!",
+        "data": {
+          "target_count": 4,
+          "item_icon": "\ud83d\udc3e",
+          "numeral": "4",
+          "trace_samples": [
+            "4",
+            "4",
+            "4"
+          ]
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "fill_pattern",
+        "prompt": "Which dinosaur footprint comes next in the pattern?",
+        "data": {
+          "sequence": [
+            "\ud83e\udd95",
+            "\ud83d\udc3e",
+            "\ud83e\udd95",
+            "\ud83d\udc3e"
+          ],
+          "choices": [
+            "\ud83e\udd95",
+            "\ud83d\udc3e",
+            "\ud83e\udd96"
+          ],
+          "answer": "\ud83e\udd95"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Identify uppercase D and lowercase d",
+      "Connect the letter D with the /d/ phoneme sound in 'Dinosaur'",
+      "Develop pencil control with path tracing and number writing"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_0388145c": {
+    "id": "custom_0388145c",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Maya's Dinosaur Letter D Adventure",
+    "subtitle": "Roar into learning with Letter D and dinosaur footprints!",
+    "description": "Practice the letter D sound, fine motor tracing, counting footprints, and pattern recognition with fun dinosaur activities.",
+    "difficulty": 1,
+    "instructions_for_child": "Grab your favorite crayon, Maya! Follow the dinosaur footprints and practice making the letter D!",
+    "instructions_for_parent": "Encourage Maya to say the '/d/' sound (as in Dinosaur) each time she traces the letter D or points to a footprint.",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Follow the dinosaur footprints to trace the path to the dino egg!",
+        "data": {
+          "style": "zigzag",
+          "count": 3,
+          "start_icon": "\ud83d\udc3e",
+          "end_icon": "\ud83e\udd95"
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "trace_letter",
+        "prompt": "Trace the uppercase and lowercase letter D for Dinosaur!",
+        "data": {
+          "upper": "D",
+          "lower": "d",
+          "sound_word": "Dinosaur",
+          "icon": "\ud83e\udd95",
+          "samples": [
+            "D D D",
+            "d d d"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "count_items",
+        "prompt": "Count the giant dinosaur footprints and trace the number 4!",
+        "data": {
+          "target_count": 4,
+          "item_icon": "\ud83d\udc3e",
+          "numeral": "4",
+          "trace_samples": [
+            "4",
+            "4",
+            "4"
+          ]
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "fill_pattern",
+        "prompt": "Which dinosaur symbol comes next in the pattern?",
+        "data": {
+          "sequence": [
+            "\ud83d\udc3e",
+            "\ud83e\udd95",
+            "\ud83d\udc3e",
+            "\ud83e\udd95"
+          ],
+          "choices": [
+            "\ud83d\udc3e",
+            "\ud83e\udd95",
+            "\ud83e\udd5a"
+          ],
+          "answer": "\ud83d\udc3e"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Recognize and form uppercase and lowercase Letter D",
+      "Strengthen fine motor control through line tracing",
+      "Identify patterns and count objects up to 4"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_094b6dab": {
+    "id": "custom_094b6dab",
+    "grade": "JK",
+    "domain": "numeracy",
+    "skill_id": "custom_numeracy",
+    "title": "Akira's Blast Off Space Counting!",
+    "subtitle": "Explore numbers and stars in outer space",
+    "description": "A fun space-themed numeracy worksheet to help Junior Kindergarten learners practice counting objects up to 5 and tracing.",
+    "difficulty": 1,
+    "instructions_for_child": "Put on your astronaut helmet, Akira! Trace the lines and count the rockets and stars.",
+    "instructions_for_parent": "Encourage Akira to point to each item out loud while counting. Help guide pencil grip during tracing tasks.",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the rockets blast off to the stars! Trace the paths.",
+        "data": {
+          "style": "diagonal",
+          "count": 3,
+          "start_icon": "\ud83d\ude80",
+          "end_icon": "\u2b50"
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "count_items",
+        "prompt": "Count the shiny stars in space! Trace the number 3.",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\u2b50",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "count_items",
+        "prompt": "Count all the zoomy rockets! Trace the number 5.",
+        "data": {
+          "target_count": 5,
+          "item_icon": "\ud83d\ude80",
+          "numeral": "5",
+          "trace_samples": [
+            "5",
+            "5",
+            "5"
+          ]
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "trace_shape",
+        "prompt": "Trace the giant space star for your constellation!",
+        "data": {
+          "shape": "star",
+          "name": "Star"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Count sets of items up to 5 accurately",
+      "Practice fine motor control with path and shape tracing",
+      "Recognize and trace numerals 3 and 5"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_e18059c4": {
+    "id": "custom_e18059c4",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Akira's Dino Letter D & Roar Safari",
+    "subtitle": "Learn the Letter D with Roaring Dinosaurs!",
+    "description": "A fun phonics activity sheet focusing on the letter D, the /d/ sound, fine motor line tracing, and roaring dinosaurs for Junior Kindergarten.",
+    "difficulty": 1,
+    "instructions_for_child": "Get your pencil ready, Akira! Practice writing the letter D, trace the loud dinosaur roar lines, and make your best ROAR sound!",
+    "instructions_for_parent": "Encourage Akira to make the /d/ sound every time they trace the letter D. Emphasize the starting /d/ sound in 'Dinosaur' and have fun roaring together!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_letter",
+        "prompt": "Trace the letter D! D is for Dinosaur.",
+        "data": {
+          "upper": "D",
+          "lower": "d",
+          "sound_word": "Dinosaur",
+          "icon": "\ud83e\udd95",
+          "samples": [
+            "D D D",
+            "d d d"
+          ]
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "trace_line",
+        "prompt": "Trace the zigzag lines to carry the T-Rex's big ROAR across the page!",
+        "data": {
+          "style": "zigzag",
+          "count": 3,
+          "start_icon": "\ud83e\udd96",
+          "end_icon": "\ud83d\udca5"
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "reading_passage",
+        "prompt": "Listen to the story about Dan the Dino!",
+        "data": {
+          "passage": "Dan the Dino loves to make a big sound. Dan opens his mouth and says ROAR! D is for Dan and Dinosaur.",
+          "questions": [
+            {
+              "q": "What big sound does Dan the Dino make?",
+              "options": [
+                "ROAR!",
+                "Meow!",
+                "Quack!"
+              ],
+              "answer": "ROAR!"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "count_items",
+        "prompt": "Count the roaring dinosaurs and trace the number 4!",
+        "data": {
+          "target_count": 4,
+          "item_icon": "\ud83e\udd96",
+          "numeral": "4",
+          "trace_samples": [
+            "4",
+            "4",
+            "4"
+          ]
+        }
+      }
+    ],
+    "target_objectives": [
+      "Identify letter D and the /d/ phoneme sound",
+      "Trace uppercase D and lowercase d",
+      "Develop fine motor pencil control with zigzag lines"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_b6bc924b": {
+    "id": "custom_b6bc924b",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Akira's Dino Phonics Adventure",
+    "subtitle": "Explore letter sounds and pencil skills with friendly dinosaurs!",
+    "description": "A Junior Kindergarten phonics worksheet focusing on the letter D, pencil control, early word blending, and pattern recognition.",
+    "difficulty": 1,
+    "instructions_for_child": "Roar into learning, Akira! Trace the letters, follow the paths, and help the dinosaurs solve the puzzle!",
+    "instructions_for_parent": "Encourage Akira to make the hard /d/ sound like in 'dinosaur' while tracing the letter D. Guide their hand gently if needed for line tracing.",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_letter",
+        "prompt": "Trace the letter D for Dinosaur! Practice saying the /d/ sound.",
+        "data": {
+          "upper": "D",
+          "lower": "d",
+          "sound_word": "Dinosaur",
+          "icon": "\ud83e\udd95",
+          "samples": [
+            "D D D",
+            "d d d"
+          ]
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "trace_line",
+        "prompt": "Help the hungry T-Rex follow the bumpy path to reach the yummy leaves!",
+        "data": {
+          "style": "zigzag",
+          "count": 3,
+          "start_icon": "\ud83e\udd96",
+          "end_icon": "\ud83c\udf3f"
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "cvc_box",
+        "prompt": "Dinosaurs love to DIG for fossils! Trace the letters to spell DIG.",
+        "data": {
+          "word": "DIG",
+          "letters": [
+            "D",
+            "I",
+            "G"
+          ],
+          "icon": "\ud83e\uddb4",
+          "trace_guide": "d i g"
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "fill_pattern",
+        "prompt": "Which dinosaur picture comes next in the pattern?",
+        "data": {
+          "sequence": [
+            "\ud83e\udd95",
+            "\ud83e\udd96",
+            "\ud83e\udd95",
+            "\ud83e\udd96"
+          ],
+          "choices": [
+            "\ud83e\udd95",
+            "\ud83e\udd96",
+            "\ud83e\udd5a"
+          ],
+          "answer": "\ud83e\udd95"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Recognize and trace uppercase 'D' and lowercase 'd'",
+      "Practice fine motor pencil control through line tracing",
+      "Identify letters and blend sounds in the CVC word DIG"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_f13f7644": {
+    "id": "custom_f13f7644",
+    "grade": "JK",
+    "domain": "reading",
+    "skill_id": "custom_reading",
+    "title": "Akira's Dino Reading Safari",
+    "subtitle": "Roar into reading with letter D and dinosaur fun!",
+    "description": "A fun early literacy worksheet focusing on letter D recognition, pre-writing line tracing, word building, and simple reading comprehension.",
+    "difficulty": 1,
+    "instructions_for_child": "Grab your crayons, Akira! Trace the letters, help the dinosaur find its egg, and read the fun story!",
+    "instructions_for_parent": "Encourage Akira to make the soft /d/ sound while tracing letter D. Read the short dinosaur story aloud together and ask Akira to point to the words.",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_letter",
+        "prompt": "D is for Dinosaur! Trace the big 'D' and little 'd'.",
+        "data": {
+          "upper": "D",
+          "lower": "d",
+          "sound_word": "Dinosaur",
+          "icon": "\ud83e\udd95",
+          "samples": [
+            "D D D",
+            "d d d"
+          ]
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "trace_line",
+        "prompt": "Help the mommy dinosaur stomp along the path to reach her egg!",
+        "data": {
+          "style": "zigzag",
+          "count": 3,
+          "start_icon": "\ud83e\udd95",
+          "end_icon": "\ud83e\udd5a"
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "cvc_box",
+        "prompt": "Say the letter sounds and spell the name of king dinosaur!",
+        "data": {
+          "word": "REX",
+          "letters": [
+            "R",
+            "E",
+            "X"
+          ],
+          "icon": "\ud83e\udd96",
+          "trace_guide": "r e x"
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "reading_passage",
+        "prompt": "Read the story with a grown-up and answer the question!",
+        "data": {
+          "passage": "I see a big green dinosaur. The dinosaur likes to stomp!",
+          "questions": [
+            {
+              "q": "What does the dinosaur like to do?",
+              "options": [
+                "Stomp",
+                "Fly",
+                "Swim"
+              ],
+              "answer": "Stomp"
+            }
+          ]
+        }
+      }
+    ],
+    "target_objectives": [
+      "Recognize and trace uppercase 'D' and lowercase 'd'",
+      "Develop fine motor control with line tracing",
+      "Practice simple CVC word identification and letter sound blending",
+      "Engage with early reading comprehension"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_9f0dfc10": {
+    "id": "custom_9f0dfc10",
+    "grade": "JK",
+    "domain": "shapes",
+    "skill_id": "custom_shapes",
+    "title": "Akira's Dino Shape Adventure",
+    "subtitle": "Roar into learning shapes with friendly dinosaurs!",
+    "description": "A fun shape-tracing and fine-motor activity designed for Junior Kindergarteners to learn basic geometric shapes.",
+    "difficulty": 1,
+    "instructions_for_child": "Get your favorite crayons ready! Trace the shape lines to help the dinosaurs finish their eggs, spikes, and fossils.",
+    "instructions_for_parent": "Encourage Akira to use a comfortable pencil grip. As Akira traces each shape, say the shape name together and look for matching shapes in your room!",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_shape",
+        "prompt": "Trace the smooth circle dino egg!",
+        "data": {
+          "shape": "circle",
+          "name": "Circle"
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "trace_shape",
+        "prompt": "Trace the pointy triangle dino spike!",
+        "data": {
+          "shape": "triangle",
+          "name": "Triangle"
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "trace_shape",
+        "prompt": "Trace the square dino fossil block!",
+        "data": {
+          "shape": "square",
+          "name": "Square"
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "trace_line",
+        "prompt": "Help the tiny dino follow the path to its shape egg!",
+        "data": {
+          "style": "zigzag",
+          "count": 3,
+          "start_icon": "\ud83e\udd95",
+          "end_icon": "\ud83e\udd5a"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Recognize and name fundamental geometric shapes (circle, triangle, square)",
+      "Develop fine-motor control and pre-writing tracing skills"
+    ],
+    "created_at": null,
+    "is_custom": true
+  }
+}
