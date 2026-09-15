@@ -290,6 +290,11 @@ class App {
   }
 
   printCurrent() {
+    if (!this.activeLesson) {
+      alert("Please select or generate a worksheet first before printing!");
+      return;
+    }
+    this.switchTab("studio");
     window.soundManager.playPop();
     window.print();
   }
@@ -303,7 +308,7 @@ class App {
     const btn = document.getElementById("btn-generate-custom");
     const originalText = btn.innerHTML;
     btn.disabled = true;
-    btn.innerHTML = `<span>✨ Teacher Spark is creating worksheet...</span>`;
+    btn.innerHTML = `<span>✨ Akira's Teacher is creating worksheet...</span>`;
 
     try {
       const res = await fetch("/api/lessons/generate", {
@@ -394,7 +399,7 @@ class App {
     const btn = document.getElementById("btn-submit-eval");
     const originalText = btn.innerHTML;
     btn.disabled = true;
-    btn.innerHTML = `<span>🌟 Teacher Spark is evaluating work...</span>`;
+    btn.innerHTML = `<span>🌟 Akira's Teacher is evaluating work...</span>`;
 
     const formData = new FormData();
     formData.append("image", this.selectedFile);
@@ -467,7 +472,7 @@ class App {
         <!-- Kid Voice Box -->
         <div class="voice-box">
           <div>
-            <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: #a21caf; margin-bottom: 4px;">Teacher Spark's Voice Note 🎙️</div>
+            <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: #a21caf; margin-bottom: 4px;">Akira's Teacher's Voice Note 🎙️</div>
             <div class="voice-text">"${this.escapeHtml(ev.voice_feedback)}"</div>
           </div>
           <button class="btn btn-primary" onclick="window.soundManager.speakFeedback('${this.escapeQuotes(ev.voice_feedback)}')">

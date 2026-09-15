@@ -1216,5 +1216,318 @@
     ],
     "created_at": null,
     "is_custom": true
+  },
+  "custom_d3c57195": {
+    "id": "custom_d3c57195",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Maya's Dino Footprint Safari",
+    "subtitle": "Explore the Letter D with Dinosaurs!",
+    "description": "Learn the letter D sound and shape while practicing fine motor control, counting, and pattern recognition with dinosaur footprints.",
+    "difficulty": 1,
+    "instructions_for_child": "Follow the footprint trails, practice writing the letter D, and help the dinosaurs complete their pattern!",
+    "instructions_for_parent": "Encourage Maya to make the hard '/d/' sound whenever she sees the letter D or a dinosaur icon. Help her practice a comfortable pencil grip while tracing.",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Follow the dinosaur footprint path to reach the dinosaur!",
+        "data": {
+          "style": "zigzag",
+          "count": 3,
+          "start_icon": "\ud83d\udc3e",
+          "end_icon": "\ud83e\udd95"
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "trace_letter",
+        "prompt": "D is for Dinosaur! Trace the big D and little d.",
+        "data": {
+          "upper": "D",
+          "lower": "d",
+          "sound_word": "Dinosaur",
+          "icon": "\ud83e\udd96",
+          "samples": [
+            "D D D",
+            "d d d"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "count_items",
+        "prompt": "Count the dinosaur footprints in the mud, then trace the number 4!",
+        "data": {
+          "target_count": 4,
+          "item_icon": "\ud83d\udc3e",
+          "numeral": "4",
+          "trace_samples": [
+            "4",
+            "4",
+            "4"
+          ]
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "fill_pattern",
+        "prompt": "Look at the footprint pattern. What comes next in the trail?",
+        "data": {
+          "sequence": [
+            "\ud83d\udc3e",
+            "\ud83e\udd95",
+            "\ud83d\udc3e",
+            "\ud83e\udd95"
+          ],
+          "choices": [
+            "\ud83d\udc3e",
+            "\ud83e\udd95",
+            "\ud83e\uddb4"
+          ],
+          "answer": "\ud83d\udc3e"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Recognize and trace uppercase 'D' and lowercase 'd'",
+      "Associate the letter D with the sound /d/ in Dinosaur",
+      "Develop pencil control using tracing lines",
+      "Count items up to 4 and trace numerals"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_6546e34b": {
+    "id": "custom_6546e34b",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Akira's Dino Phonics Adventure",
+    "subtitle": "Roar into learning with letter sounds and dinosaurs!",
+    "description": "Fun Junior Kindergarten phonics and fine-motor activities featuring letter D, tracing, and simple CVC word practice.",
+    "difficulty": 1,
+    "instructions_for_child": "Get ready for a dino-mite adventure, Akira! Trace the letters, follow the paths, and sound out dino words!",
+    "instructions_for_parent": "Guide Akira to make the initial /d/ sound when tracing the letter D. Praise effort on pencil grip and letter formation.",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_letter",
+        "prompt": "Trace uppercase D and lowercase d for Dinosaur!",
+        "data": {
+          "upper": "D",
+          "lower": "d",
+          "sound_word": "Dinosaur",
+          "icon": "\ud83e\udd95",
+          "samples": [
+            "D D D",
+            "d d d"
+          ]
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "trace_line",
+        "prompt": "Help the mommy dinosaur walk along the bumpy path to her egg!",
+        "data": {
+          "style": "zigzag",
+          "count": 3,
+          "start_icon": "\ud83e\udd95",
+          "end_icon": "\ud83e\udd5a"
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "cvc_box",
+        "prompt": "Dinosaurs love to DIG for bones! Sound out and write each letter.",
+        "data": {
+          "word": "DIG",
+          "letters": [
+            "D",
+            "I",
+            "G"
+          ],
+          "icon": "\ud83e\uddb4",
+          "trace_guide": "d i g"
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "count_items",
+        "prompt": "Count the roaring T-Rexes and trace the number 3!",
+        "data": {
+          "target_count": 3,
+          "item_icon": "\ud83e\udd96",
+          "numeral": "3",
+          "trace_samples": [
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      }
+    ],
+    "target_objectives": [
+      "Identify the letter D and its sound /d/",
+      "Develop fine motor control through path tracing",
+      "Segment and spell the simple CVC word DIG"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_0ffe9a5c": {
+    "id": "custom_0ffe9a5c",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Maya's Dinosaur Letter D Stomp",
+    "subtitle": "Explore the Letter D with Dino Footprints!",
+    "description": "A fun phonics activity worksheet focusing on letter D identification, tracing, phonemic awareness, and fine motor path-following.",
+    "difficulty": 1,
+    "instructions_for_child": "Stomp along with the dinosaurs! Practice tracing the letter D and follow the footprint trails.",
+    "instructions_for_parent": "Encourage Maya to make the /d/ sound (as in 'd-d-dinosaur') as she traces each letter D and follows the footprint lines.",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_letter",
+        "prompt": "Trace uppercase D and lowercase d for Dinosaur!",
+        "data": {
+          "upper": "D",
+          "lower": "d",
+          "sound_word": "Dinosaur",
+          "icon": "\ud83e\udd95",
+          "samples": [
+            "D D D",
+            "d d d"
+          ]
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "trace_line",
+        "prompt": "Follow the dinosaur footprints along the trail!",
+        "data": {
+          "style": "zigzag",
+          "count": 3,
+          "start_icon": "\ud83d\udc3e",
+          "end_icon": "\ud83e\udd95"
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "count_items",
+        "prompt": "Count the giant dino footprints and trace the number 4!",
+        "data": {
+          "target_count": 4,
+          "item_icon": "\ud83d\udc3e",
+          "numeral": "4",
+          "trace_samples": [
+            "4",
+            "4",
+            "4"
+          ]
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "cvc_box",
+        "prompt": "Dinosaurs love to DIG for bones! Spell the word DIG.",
+        "data": {
+          "word": "DIG",
+          "letters": [
+            "D",
+            "I",
+            "G"
+          ],
+          "icon": "\ud83e\uddb4",
+          "trace_guide": "d i g"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Recognize uppercase D and lowercase d",
+      "Develop fine motor skills through path and letter tracing",
+      "Connect the letter D to the beginning /d/ sound"
+    ],
+    "created_at": null,
+    "is_custom": true
+  },
+  "custom_0ae127ec": {
+    "id": "custom_0ae127ec",
+    "grade": "JK",
+    "domain": "phonics",
+    "skill_id": "custom_phonics",
+    "title": "Akira's Dino-Mite Phonics Adventure",
+    "subtitle": "Roar into learning letter sounds with dinosaurs!",
+    "description": "Develop fine motor skills, letter D recognition, and simple CVC word blending through fun dinosaur-themed activities.",
+    "difficulty": 1,
+    "instructions_for_child": "Get ready to stomp and roar! Help the baby dinosaurs, trace your letters, and sound out dino words!",
+    "instructions_for_parent": "Guide Akira to make the hard /d/ sound when tracing the letter D. For the CVC word boxes, encourage them to say each letter sound individually before blending them together.",
+    "exercises": [
+      {
+        "id": "ex1",
+        "type": "trace_line",
+        "prompt": "Help the baby dinosaur stomp along the zigzag path to reach the egg!",
+        "data": {
+          "style": "zigzag",
+          "count": 3,
+          "start_icon": "\ud83e\udd95",
+          "end_icon": "\ud83e\udd5a"
+        }
+      },
+      {
+        "id": "ex2",
+        "type": "trace_letter",
+        "prompt": "D is for Dinosaur! Trace the letter D and say /d/ /d/ Dinosaur!",
+        "data": {
+          "upper": "D",
+          "lower": "d",
+          "sound_word": "Dinosaur",
+          "icon": "\ud83e\udd95",
+          "samples": [
+            "D D D",
+            "d d d"
+          ]
+        }
+      },
+      {
+        "id": "ex3",
+        "type": "cvc_box",
+        "prompt": "Dinosaurs love to DIG! Sound out each letter and write the word.",
+        "data": {
+          "word": "DIG",
+          "letters": [
+            "D",
+            "I",
+            "G"
+          ],
+          "icon": "\ud83e\uddb4",
+          "trace_guide": "d i g"
+        }
+      },
+      {
+        "id": "ex4",
+        "type": "cvc_box",
+        "prompt": "Stomp through the warm MUD! Touch each box and say the sounds.",
+        "data": {
+          "word": "MUD",
+          "letters": [
+            "M",
+            "U",
+            "D"
+          ],
+          "icon": "\ud83c\udf0b",
+          "trace_guide": "m u d"
+        }
+      }
+    ],
+    "target_objectives": [
+      "Identify letter D name and /d/ sound",
+      "Practice fine motor pencil control through line tracing",
+      "Blend 3-letter CVC words (DIG, MUD)"
+    ],
+    "created_at": null,
+    "is_custom": true
   }
 }

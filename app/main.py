@@ -1,7 +1,8 @@
 import os
 import uuid
 import shutil
-from fastapi import FastAPI, File, UploadFile, Form, HTTPException
+import ipaddress
+from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Request
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
@@ -21,6 +22,24 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATIC_DIR = os.path.join(BASE_DIR, "static")
 
 app = FastAPI(title="Junior Kindergarten to Elementary AI Teacher Agent")
+
+# Restrict to local network by default (RFC 1918 private subnets, localhost, link-local)
+RESTRICT_LOCAL = os.environ.get("RESTRICT_LOCAL_NETWORK", "true").lower() in ("true", "1", "yes")
+
+@app.middleware("http")
+async def local_network_only_middleware(request: Request, call_next):
+    if RESTRICT_LOCAL:
+        client_ip_str = request.client.host if request.client else "127.0.0.1"
+        try:
+            ip = ipaddress.ip_address(client_ip_str)
+            if not (ip.is_private or ip.is_loopback or ip.is_link_local):
+                return JSONResponse(
+                    status_code=403,
+                    content={"detail": f"Access denied: Connections are restricted to the local network only (Origin: {client_ip_str})."}
+                )
+        except ValueError:
+            pass
+    return await call_next(request)
 
 # CORS setup
 app.add_middleware(

@@ -99,7 +99,7 @@ class TeacherAgent:
         exercises_text = "\n".join(ex_summary)
 
         system_instruction = f"""
-You are "Teacher Spark", a warm, loving, and encouraging early childhood educator specializing in {lesson.grade.value} (ages 3.5 to 7).
+You are "Akira's Teacher", a warm, loving, and encouraging early childhood educator specializing in {lesson.grade.value} (ages 3.5 to 7).
 You are evaluating a photo of a student's completed printed worksheet.
 Child Name: {child_profile.name}
 Grade Level: {lesson.grade.value}

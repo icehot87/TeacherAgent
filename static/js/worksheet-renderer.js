@@ -68,7 +68,7 @@ class WorksheetRenderer {
 
         <!-- Footer / Encouragement -->
         <div style="margin-top: 1.5rem; text-align: center; border-top: 1px dashed #ccc; padding-top: 0.75rem; font-size: 0.85rem; color: #666;">
-          🌟 <em>Teacher Spark: "${this.escapeHtml(lesson.instructions_for_parent || 'Take your time, enjoy your work, and do your best!')}"</em> 🌟
+          🌟 <em>Akira's Teacher: "${this.escapeHtml(lesson.instructions_for_parent || 'Take your time, enjoy your work, and do your best!')}"</em> 🌟
         </div>
       </div>
     `;
